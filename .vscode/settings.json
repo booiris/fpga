@@ -1,9 +1,19 @@
 {
     "cSpell.words": [
-        "endmodule"
+        "endmodule",
+        "testbench"
     ],
     "explorer.excludeGitIgnore": true,
     "files.exclude": {
         "mux2.xpr": true,
+        "mux2.ip_user_files": true,
+        "**/constrs*": true,
     },
+    "verilog.languageServer.hdlChecker.enabled": false,
+    "verilog.languageServer.veribleVerilogLs.enabled": true,
+    "verilog.languageServer.veribleVerilogLs.path": "D:\\fpga_project\\verible\\verible-verilog-ls.exe",
+    "verilog.formatting.verilogHDL.formatter": "verible-verilog-format",
+    "verilog.formatting.veribleVerilogFormatter.path": "D:\\fpga_project\\verible\\verible-verilog-format.exe",
+    "verilog.linting.linter": "xvlog",
+    "verilog.linting.path": "D:\\fpga\\Vivado\\2024.2\\bin",
 }
