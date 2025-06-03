@@ -5,11 +5,11 @@ module mux2 (
     out
 );
 
-input x;
-input y;
-input select;
-output out;
+  input x;
+  input y;
+  input select;
+  output out;
 
-assign out = (select == 1) ? x : y;
-    
+  assign out = (select == 1) ? x : y;
+
 endmodule

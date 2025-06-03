@@ -8,6 +8,7 @@
         "mux2.xpr": true,
         "mux2.ip_user_files": true,
         "**/constrs*": true,
+        "**/utils*": true,
     },
     "verilog.languageServer.hdlChecker.enabled": false,
     "verilog.languageServer.veribleVerilogLs.enabled": true,
