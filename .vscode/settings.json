@@ -1,0 +1,9 @@
+{
+    "cSpell.words": [
+        "endmodule"
+    ],
+    "explorer.excludeGitIgnore": true,
+    "files.exclude": {
+        "mux2.xpr": true,
+    },
+}
