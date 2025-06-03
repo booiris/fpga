@@ -9,6 +9,7 @@
         "mux2.ip_user_files": true,
         "**/constrs*": true,
         "**/utils*": true,
+        "mux2.ioplanning": true,
     },
     "verilog.languageServer.hdlChecker.enabled": false,
     "verilog.languageServer.veribleVerilogLs.enabled": true,
